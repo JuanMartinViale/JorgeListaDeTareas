@@ -1,34 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar primer módulo de Angular",
-      "day": "Agosto 5 a las 12:00",
-      "reminder": false
-    },
-    {
-      "id": 2,
-      "text": "Investigar sobre Bootstrap",
-      "day": "Agosto 5 a las 19:00",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Leer mi libro favorito",
-      "day": "Agosto 5 a las 21:00",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Ver video de Ingles",
-      "day": "Agosto 5 a las 22:00",
-      "reminder": true
-    },
-    {
       "id": 5,
       "text": "Preparar la comida",
       "day": "Agosto 5 a las 23:00",
       "reminder": true
+    },
+    {
+      "text": "clase de Inglés",
+      "day": "martes",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Hacer ejercicio",
+      "day": "Martes 7:00 ",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
